@@ -1,0 +1,43 @@
+// Honors & awards, newest first (from LinkedIn).
+export const awards = [
+    {
+        id: 'puzzle-2026',
+        titleEn: 'CS50x Puzzle Day 2026',
+        titleAr: 'CS50x Puzzle Day 2026',
+        issuer: 'Harvard University',
+        dateEn: 'Sep 2026',
+        dateAr: 'أيلول 2026',
+        descEn: "Took part in Harvard CS50's global competition, solving complex logic, algorithmic and computational puzzles under time pressure.",
+        descAr: 'المشاركة في مسابقة CS50 العالمية من جامعة هارفارد لحل ألغاز منطقية وخوارزمية وحسابية معقدة ضمن وقت محدد.',
+    },
+    {
+        id: 'puzzle-2025',
+        titleEn: 'CS50x Puzzle Day 2025',
+        titleAr: 'CS50x Puzzle Day 2025',
+        issuer: 'Harvard University',
+        dateEn: 'Apr 2025',
+        dateAr: 'نيسان 2025',
+        descEn: "Solved complex logic, algorithmic and computational puzzles in Harvard CS50's annual global problem-solving competition.",
+        descAr: 'حل ألغاز منطقية وخوارزمية وحسابية معقدة في مسابقة حل المشكلات السنوية العالمية من CS50 في هارفارد.',
+    },
+    {
+        id: 'ready-player-50',
+        titleEn: 'Ready Player 50',
+        titleAr: 'Ready Player 50',
+        issuer: 'Harvard University',
+        dateEn: 'Oct 2023',
+        dateAr: 'تشرين الأول 2023',
+        descEn: "Completed Harvard CS50's technical puzzle challenge.",
+        descAr: 'إتمام تحدي الألغاز التقنية من CS50 في جامعة هارفارد.',
+    },
+    {
+        id: 'puzzle-2023',
+        titleEn: 'CS50x Puzzle Day 2023',
+        titleAr: 'CS50x Puzzle Day 2023',
+        issuer: 'Harvard University',
+        dateEn: 'Apr 2023',
+        dateAr: 'نيسان 2023',
+        descEn: "Solved complex logic and algorithmic puzzles in Harvard CS50's global problem-solving event.",
+        descAr: 'حل ألغاز منطقية وخوارزمية معقدة في فعالية حل المشكلات العالمية من CS50 في هارفارد.',
+    },
+];
